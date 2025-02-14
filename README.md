@@ -6,6 +6,6 @@ Ah how much you will keep using Pokemerald? Here we try to bring the CFRU for Em
 
 `Current Helpers : Shiny Miner`
 
-This Project is not affilated to CFRU for its developers, consider me only xD
+This Project is not affilated to CFRU or its developers, consider me only xD
 
 Help me out with this !!! Discord : shinyhunter08
